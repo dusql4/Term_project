@@ -1,5 +1,5 @@
 # Term Project (Calculation after numeric image recognition) 
-***Project team member : 201832607 김연비, 202234904 신연수, 202234949 홍민석, 황반푹***
+***Project team member : 201832607 김연비, 202234904 신연수, 202234949 홍민석, 202039568 황반푹***
 
 ### Table of Contents
 ---
