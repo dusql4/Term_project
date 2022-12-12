@@ -67,6 +67,7 @@ Let me briefly explain the project execution procedure
 ```sh
 $ Recognizing Numbers : https://kagus2.tistory.com/m/28
 $ Related Code: See Open Source Lecture Materials
+$ Related Code: https://m.blog.naver.com/jkg57/222165576116
 ```
 ---
 
